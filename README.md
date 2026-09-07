@@ -17,18 +17,33 @@ Rendering the Arecibo message with Ti*k*Z.
 
 - [Key Files](#key-files)
 - [Software Requirements](#software-requirements)
+- [Getting Started](#getting-started)
 - [Acknowledgements](#acknowledgements)
 - [References](#references)
 
 ## Key Files
 
-- src/arecibo-message.tex &nbsp;&nbsp; LaTeX / Ti*k*Z code for rendering the Arecibo message.
+| File                      | Notes            |
+| :------------------------ | :--------------- |
+| `src/arecibo-message.tex` | LaTeX document.  |
 
 ## Software Requirements
 
-- TeX distribution (for LaTeX and Ti*k*Z).<br />
+| Software | Notes                                                  |
+| :------- | :----------------------------------------------------- |
+| LaTeX    | [Available here](https://www.latex-project.org). Free. |
 
-It's assumed that the Ti*k*Z package is available and the code will be run from a (La)TeX editor like TeXworks.<br />
+### LaTeX Configuration
+
+Please ensure the LaTeX environment has the following packages installed:
+
+- pgf.
+- standalone.
+
+## Getting Started
+
+The document `arecibo-message.tex` should be compiled in LaTeX to render the
+Arecibo message.
 
 ## Acknowledgements
 
