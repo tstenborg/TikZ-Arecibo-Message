@@ -23,9 +23,9 @@ Rendering the Arecibo message with Ti*k*Z.
 
 ## Key Files
 
-| File                      | Notes            |
-| :------------------------ | :--------------- |
-| `src/arecibo-message.tex` | LaTeX document.  |
+| File                      | Notes           |
+| :------------------------ | :-------------- |
+| `src/arecibo-message.tex` | LaTeX document. |
 
 ## Software Requirements
 
