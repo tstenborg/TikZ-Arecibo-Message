@@ -7,7 +7,7 @@ Rendering the Arecibo message with Ti*k*Z.
 ---
 
 <figure>
-  <img src="assets/arecibo-message.svg" alt="Arecibo message." width="340">
+  <img src="assets/arecibo-message.svg" alt="A tall, narrow, coarse, black and white pixel grid showing stick figure, telescope and other encoded scientific symbols." width="340">
   <figcaption>Figure 1. Ti<i>k</i>Z render of the interstellar Arecibo message. Adapted from [<a href="#references">1</a>].</figcaption>
 </figure>
 
